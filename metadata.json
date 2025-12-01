@@ -1,0 +1,5 @@
+{
+  "name": "SummitLog",
+  "description": "A comprehensive climbing portfolio to track ascents, analyze progression, visualize locations on a map, and review gear.",
+  "requestFramePermissions": []
+}
